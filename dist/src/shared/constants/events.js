@@ -1,0 +1,14 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.DELETE_ESTIMATES = exports.HIDE_ESTIMATES = exports.SHOW_ESTIMATES = exports.SEND_ESTIMATE = exports.CLOSE_ROOM = exports.CREATE_ROOM = exports.EXIT_ROOM = exports.ROOM_NOT_FOUND = exports.JOIN_ROOM = exports.CONNECTION = exports.DISCONNECT = void 0;
+exports.DISCONNECT = 'disconnect';
+exports.CONNECTION = 'connection';
+exports.JOIN_ROOM = 'join room';
+exports.ROOM_NOT_FOUND = 'room not found';
+exports.EXIT_ROOM = 'exit room';
+exports.CREATE_ROOM = 'create room';
+exports.CLOSE_ROOM = 'close room';
+exports.SEND_ESTIMATE = 'send estimate';
+exports.SHOW_ESTIMATES = 'show estimates';
+exports.HIDE_ESTIMATES = 'hide estimates';
+exports.DELETE_ESTIMATES = 'delete estimates';
